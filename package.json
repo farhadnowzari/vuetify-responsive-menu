@@ -2,7 +2,7 @@
   "author": "Farhad Nowzari",
   "name": "vuetify-responsive-menu",
   "description": "This components lets you to add a vuetify responsive menu to your project, without duplicating anything.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/VResponsiveMenu.umd.js",
   "module": "dist/VResponsiveMenu.esm.js",
   "unpkg": "dist/VResponsiveMenu.min.js",
