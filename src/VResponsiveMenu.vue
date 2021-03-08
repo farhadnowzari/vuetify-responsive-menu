@@ -29,7 +29,13 @@
 </template>
 
 <script>
+import { VDialog, VMenu } from "vuetify/lib";
+
 export default {
+    components: {
+        VDialog,
+        VMenu,
+    },
     computed: {
         dialogAttrs() {
             const filtered = Object.keys(this.$attrs)
